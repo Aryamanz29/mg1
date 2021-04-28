@@ -1,3 +1,4 @@
+I am editing the README file. Adding some more details about the project description
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Aryamanz29/mg1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
